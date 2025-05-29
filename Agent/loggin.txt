@@ -1,0 +1,11 @@
+Your Convwersation Log: 
+You: Hi there. This is Raksa. 
+AI: Hello Raksa! How can I assist you today?
+
+You: I am a student at Kansas State University
+AI: That's great! How are you finding your experience at Kansas State University? Is there anything specific you'd like to know or discuss about your studies or campus life?
+
+You: Which state and city do I study in ?
+AI: Kansas State University is located in Manhattan, Kansas.
+
+End of Conversation
